@@ -1,0 +1,5 @@
+*.c filter=setUSACOTrainingUserID
+*.cpp filter=setUSACOTrainingUserID
+*.java filter=setUSACOTrainingUserID
+*.py filter=setUSACOTrainingUserID
+*.pas filter=setUSACOTrainingUserID
