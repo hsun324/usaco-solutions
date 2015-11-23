@@ -3,13 +3,8 @@ ID: <ID HERE>
 LANG: C++11
 TASK: hamming
 */
-#include <iostream>
 #include <fstream>
 #include <vector>
-#include <set>
-#include <algorithm>
-#include <utility>
-#include <functional>
 
 using namespace std;
 
