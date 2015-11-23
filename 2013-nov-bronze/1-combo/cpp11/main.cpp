@@ -1,10 +1,5 @@
-#include <istream>
 #include <fstream>
 #include <set>
-#include <vector>
-#include <array>
-#include <algorithm>
-#include <iterator>
 
 using namespace std;
 
