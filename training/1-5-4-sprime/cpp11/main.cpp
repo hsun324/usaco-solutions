@@ -1,5 +1,5 @@
 /**
-ID: hsun324
+ID: <ID HERE>
 LANG: C++11
 TASK: sprime
 */
