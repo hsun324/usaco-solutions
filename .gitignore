@@ -1,5 +1,6 @@
 # Compiled source #
 ###################
+main
 *.com
 *.class
 *.dll
@@ -44,3 +45,8 @@ Thumbs.db
 ########################
 # for the usaco-tester tool
 compiled_files/
+
+# USACO Specific Files #
+########################
+*.in
+*.out
