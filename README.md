@@ -16,3 +16,8 @@ Individual contests are organized by year, month, and division in the format `<y
 Solutions to problems on the USACO training subsite are located within `training`. These solutions are organized by both the chapter, section and lesson they reside in as well as by the problem name in the format `<chapter>-<section>-<lesson>-<name>`.
 
 Some training sections may actually refer to the contest problem from where they originated.
+
+## License
+MIT License. See [LICENSE][1] for details;
+
+[1]: LICENSE
