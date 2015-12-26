@@ -1,11 +1,6 @@
 #include <fstream>
-#include <iostream>
-#include <utility>
-#include <map>
-#include <set>
-#include <queue>
-#include <bitset>
-#include <algorithm>
+#include <array>
+#include <vector>
 
 using namespace std;
 
